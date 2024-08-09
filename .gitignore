@@ -1,0 +1,9 @@
+# IDE
+.idea/
+.idea/*
+out/
+out/*
+
+# Java
+*.class
+*.log
